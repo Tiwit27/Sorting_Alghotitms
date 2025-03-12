@@ -1,0 +1,15 @@
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\bin\Debug\net8.0\Binary_Search.exe
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\bin\Debug\net8.0\Binary_Search.deps.json
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\bin\Debug\net8.0\Binary_Search.runtimeconfig.json
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\bin\Debug\net8.0\Binary_Search.dll
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\bin\Debug\net8.0\Binary_Search.pdb
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfo.cs
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.sourcelink.json
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.dll
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\refint\Binary_Search.dll
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.pdb
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\Binary_Search.genruntimeconfig.cache
+C:\Users\ŁojekRafał\Documents\sortowania\Binary_Search\obj\Debug\net8.0\ref\Binary_Search.dll
